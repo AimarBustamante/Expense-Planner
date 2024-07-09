@@ -1,5 +1,10 @@
 # 📝 Expense Planner
 
+![mockup-browser-1](public/mockups/mockup-browser-1.png)
+![mockup-browser-2](public/mockups/mockup-browser-2.png)
+![mockup-browser-3](public/mockups/mockup-browser-3.png)
+![mockup-browser-4](public/mockups/mockup-browser-4.png)
+
 ## 📖 Project Description
 Expense Planner is a web application where you can manage your budget for either the month or the week. You can add your budget, expenses, edit and delete your expenses, and filter expenses by category.
 
