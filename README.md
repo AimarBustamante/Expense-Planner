@@ -23,9 +23,10 @@ Expense Planner is a web application where you can manage your budget for either
 ![Headless_UI](https://img.shields.io/badge/headless_ui-66E3FF?style=for-the-badge&logo=headlessui&logoColor=fff)
 
 ## 🌐 Libraries Used
-- **react-calendar**
-- **react-swipeable-list**
-- **react-circular-progressbar**
+- [**react-calendar**](https://www.npmjs.com/package/react-calendar)
+- [**react--date-picker**](https://www.npmjs.com/package/react-date-picker)
+- [**react-swipeable-list**](https://www.npmjs.com/package/react-swipeable-list)
+- [**react-circular-progressbar**](https://www.npmjs.com/package/react-circular-progressbar)
 
 ## 📚 What I Learned
 I learned how to use Context API to have a global state without dependencies; Context API helped me avoid passing props through every component. Additionally, I learned to use various libraries for better styling in my application, along with the time-saving benefits they provide.
